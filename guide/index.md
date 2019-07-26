@@ -1,5 +1,6 @@
 ---
 layout: page
+title: DeepCLIP user guide
 ---
 
 <h1 class="mt-3">DeepCLIP user guide</h1>
